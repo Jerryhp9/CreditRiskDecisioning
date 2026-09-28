@@ -1,0 +1,30 @@
+{
+  "applicantId": "APP-2026-8942",
+  "identity": {
+    "firstName": "Alex",
+    "lastName": "Morgan",
+    "dateOfBirth": "1988-05-14",
+    "nationalIdOrSsn": "987-65-4321"
+  },
+  "contact": {
+    "email": "alex.morgan@example.com",
+    "phoneNumber": "+1-555-019-2834",
+    "streetAddress": "742 Evergreen Terrace",
+    "city": "Springfield",
+    "state": "IL",
+    "postalCode": "62704"
+  },
+  "financialDeclarations": {
+    "declaredMonthlyIncome": 6500.00,
+    "employmentStatus": "FULL_TIME"
+  },
+  "requestDetails": {
+    "requestedCreditAmount": 15000.00,
+    "loanPurpose": "PERSONAL_LOAN"
+  },
+  "sessionMetadata": {
+    "applicationTimestamp": "2026-09-26T10:30:00Z",
+    "ipAddress": "192.168.1.45",
+    "deviceId": "DEV-883A-991C"
+  }
+}

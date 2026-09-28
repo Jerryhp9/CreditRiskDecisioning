@@ -1,0 +1,20 @@
+{
+  "nationalIdOrSsn": "987-65-4321",
+  "bureauCreditScore": 680,
+  "creditHistoryLengthMonths": 72,
+  "financialSummary": {
+    "totalRevolvingCreditLimit": 20000.00,
+    "totalRevolvingCreditUsed": 8500.00,
+    "existingMonthlyDebtPayments": 1200.00,
+    "openCreditAccounts": 4
+  },
+  "delinquencies": {
+    "latePayments30Days": 1,
+    "latePayments60Days": 0,
+    "latePayments90Days": 0,
+    "hasBankruptcies": false
+  },
+  "recentActivity": {
+    "recentHardInquiries30Days": 3
+  }
+}
